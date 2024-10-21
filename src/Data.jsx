@@ -119,7 +119,7 @@ export const products = [
   },
   {
     id: 6,
-    img: Project6,
+    img: Bike6,
     category: 'Folding Bike',
     title: 'Compact Commuter',
     description:
