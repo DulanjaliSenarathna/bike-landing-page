@@ -6,7 +6,7 @@ import shapeOne from '../../assets/shape-1.png'
 
 const Pricing = () => {
   return (
-    <section className="pricing section" id="pricing">
+    <section className="pricing section" id="call">
         <h2 className="section__title text-cs">Pricing</h2>
         <p className="section__subtitle">
             Our <span>Price Board</span>

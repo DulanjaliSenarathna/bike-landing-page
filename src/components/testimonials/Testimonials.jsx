@@ -13,7 +13,7 @@ import { testimonials } from '../../Data';
 
 const Testimonials = () => {
   return (
-    <section className='testimonials section' id="testimonial">
+    <section className='testimonials section' id="testimonials">
         <h2 className="section__title text-cs">Testimonials</h2>
         <p className="section__subtitle">
             My <span>Customers Say</span>

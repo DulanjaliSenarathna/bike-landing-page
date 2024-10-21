@@ -1,10 +1,10 @@
 .home{
     background-image: var(--first-gradient);
-    padding-bottom: 180px;
+    padding-bottom: 40vh;
 }
 
 .home__wrapper{
-    padding-bottom: 180px;
+    padding-bottom: 40vh;
     min-height: 100vh;
     display: grid;
     align-items: center;
@@ -15,12 +15,6 @@
 .home__wrapper,
 .home__container{
     position: relative;
-}
-
-.home__wrapper{
-    min-height: 100vh;
-    display: grid;
-    align-items: center;
 }
 
 .home__container{

@@ -25,7 +25,7 @@ const Product = () => {
         setMenuItems(newProductItems);
     }
   return (
-    <section className="product section" id="work">
+    <section className="product section" id="products">
          <h2 className="section__title text-cs">Product Showcase</h2>
         <p className="section__subtitle">
             Our <span>Products</span>
