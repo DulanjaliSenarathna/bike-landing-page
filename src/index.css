@@ -261,6 +261,10 @@
   padding-inline: 24px 30px;
 }
 
+.home__data{
+ display: none;
+}
+
 .resume__date-title{
   flex-direction: column;
   align-items: flex-start;
@@ -286,13 +290,8 @@
   }
 
   .home__data-one{
-      bottom: 18%;
+      bottom: 10%;
       left: -18%;
-  }
-
-  .home__data-two{
-      bottom: 0;
-      right: -12%;
   }
 
   .card-one,

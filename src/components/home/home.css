@@ -94,9 +94,9 @@
 
 .home__img-wrapper{
     position: absolute;
-    top: 0;
-    right: 12px;
-    width: 100%;
+    top: -30px;
+    right: 25px;
+    width: 42%;
     max-width: 600px;
    
 }
@@ -168,7 +168,7 @@
     width: 226px;
     height: 226px;
     top: -6%;
-    right: 6%;
+    right: 8%;
 }
 
 .shape__2,
