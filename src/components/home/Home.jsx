@@ -28,13 +28,11 @@ const Home = () => {
                     <span className="text-sm text-cs">Years of <span>Service</span></span>
                 </p>
 
-        
-
                 <img src={shapeOne} className="shape shape__1"/>
                 <img src={shapeTwo} className="shape shape__2"/>
                 <img src={shapeTwo} className="shape shape__3"/>
             </div>
-            <p className="home__text">Based in Sri Lanka, we offer top-quality bicycles crafted for your
+            <p className="home__text">Based in Sri Lanka, we offer top-quality bicycles for your
                  every adventure. Let’s talk about our unique collection!
             </p>
             <div className="home__socials">
@@ -48,6 +46,7 @@ const Home = () => {
                     <FaInstagramSquare/>
                 </a>
             </div>
+            
 
             <div className="home__btns">
                 <a download='' className="btn text-cs">Call Us</a>

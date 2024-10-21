@@ -328,7 +328,7 @@ img{
   transform: translate(-50%, 100%);
 }
 
-.section__deco .shape {
+.section__deco .shape{
   max-width: 226px;
   height: 226px;
   bottom: -200px;

@@ -1,6 +1,6 @@
 .home{
     background-image: var(--first-gradient);
-    padding-bottom: 40vh;
+    padding-bottom: 10vh;
 }
 
 .home__wrapper{

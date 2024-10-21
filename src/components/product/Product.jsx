@@ -35,9 +35,6 @@ const Product = () => {
            <AnimatePresence initial={false}> <Itmes productItems={productItems}/></AnimatePresence>
         </div>
 
-        <div className="section__deco deco__right">
-            <img src={shapeOne} alt="" className="shape" />
-        </div>
 
         <div className="section__bg-wrapper">
             <span className="bg__title">Product</span>
