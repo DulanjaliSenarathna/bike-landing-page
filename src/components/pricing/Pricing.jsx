@@ -16,7 +16,10 @@ const Pricing = () => {
             <div className="pricing__item card card-one">
                 <span className="pricing__subtitle text-cs">Road Bike</span>
                 <h3 className="pricing__price">39 <span>$</span></h3>
-                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis nesciunt asperiores quae obcaecati officia ratione illum! Cumque quisquam quis sapiente quae. Incidunt modi doloremque repudiandae voluptate officia aperiam repellendus voluptates.</p>
+                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur 
+                    adipisicing elit. Corporis nesciunt asperiores quae obcaecati officia 
+                    ratione illum! Cumque quisquam quis sapiente quae. Incidunt modi doloremque
+                     repudiandae voluptate officia aperiam repellendus voluptates.</p>
                 <ul className="pricing__list">
                     <li className="list__item">
                         <FaCheck className='list__icon'></FaCheck>
@@ -49,7 +52,10 @@ const Pricing = () => {
             <div className="pricing__item card card-one">
                 <span className="pricing__subtitle text-cs">Hybrid Bike</span>
                 <h3 className="pricing__price">259 <span>$</span></h3>
-                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis nesciunt asperiores quae obcaecati officia ratione illum! Cumque quisquam quis sapiente quae. Incidunt modi doloremque repudiandae voluptate officia aperiam repellendus voluptates.</p>
+                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                    Corporis nesciunt asperiores quae obcaecati officia ratione illum! Cumque quisquam quis 
+                    sapiente quae. Incidunt modi doloremque repudiandae voluptate officia aperiam repellendus 
+                    voluptates.</p>
                 <ul className="pricing__list">
                     <li className="list__item">
                         <FaCheck className='list__icon'></FaCheck>
@@ -81,7 +87,10 @@ const Pricing = () => {
             <div className="pricing__item card card-one">
                 <span className="pricing__subtitle text-cs">Mountain Bike</span>
                 <h3 className="pricing__price">1,249 <span>$</span></h3>
-                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis nesciunt asperiores quae obcaecati officia ratione illum! Cumque quisquam quis sapiente quae. Incidunt modi doloremque repudiandae voluptate officia aperiam repellendus voluptates.</p>
+                <p className="pricing__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                    Corporis nesciunt asperiores quae obcaecati officia ratione illum! Cumque quisquam quis 
+                    sapiente quae. Incidunt modi doloremque repudiandae voluptate officia aperiam repellendus 
+                    voluptates.</p>
                 <ul className="pricing__list">
                     <li className="list__item">
                         <FaCheck className='list__icon'></FaCheck>

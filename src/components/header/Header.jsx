@@ -6,6 +6,7 @@ import './header.css'
 import { Link, animateScroll } from 'react-scroll';
 import shapeOne from '../../assets/shape-1.png'
 
+// Get previosly saved theme from localstorage
 const getStorageTheme = () =>{
     let theme = 'light-theme';
 

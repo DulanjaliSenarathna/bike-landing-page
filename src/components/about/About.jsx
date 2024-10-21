@@ -56,8 +56,6 @@ const About = () => {
             })}
         </Swiper>
 
-      
-
         <div className="section__bg-wrapper">
             <span className="bg__title">Services</span>
         </div>
