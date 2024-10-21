@@ -112,7 +112,7 @@ export const products = [
   {
     id: 5,
     img: Bike5,
-    category: 'Kids Bike',
+    category: 'Hybrid Bike',
     title: 'Little Explorer',
     description:
       'Make your ride out a real family affair by using the Oxford top-tube mounted Little Explorer. · Max tube width - 50mm · Suitable for ages 3 to 6 years ',
@@ -120,7 +120,7 @@ export const products = [
   {
     id: 6,
     img: Bike6,
-    category: 'Folding Bike',
+    category: 'Road Bike',
     title: 'Compact Commuter',
     description:
       'These convenient and compact bikes make travel, commuting, and life much easier.List includes: The Best Folding Bikes',
