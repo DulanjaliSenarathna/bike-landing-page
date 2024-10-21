@@ -102,6 +102,7 @@ font-size: var(--normal-font-size);
 body{
   color: var(--text-color);
   background-color: var(--bg-color);
+  zoom:90%;
 }
 
 body.no-scroll{
