@@ -20,7 +20,7 @@ const Home = () => {
 
             <div className="home__img-wrapper">
                 <div className="home__banner">
-                    <img src={heroImg} alt="" className='home__profile' />
+                    <img src={heroImg} alt="Hero image" className='home__profile' loading='lazy' />
                 </div>
 
                 <p className="home__data home__data-one">
@@ -28,9 +28,9 @@ const Home = () => {
                     <span className="text-sm text-cs">Years of <span>Service</span></span>
                 </p>
 
-                <img src={shapeOne} className="shape shape__1"/>
-                <img src={shapeTwo} className="shape shape__2"/>
-                <img src={shapeTwo} className="shape shape__3"/>
+                <img src={shapeOne} className="shape shape__1" alt='styled shape image' loading='lazy'/>
+                <img src={shapeTwo} className="shape shape__2" alt='styled shape image' loading='lazy'/>
+                <img src={shapeTwo} className="shape shape__3" alt='styled shape image' loading='lazy'/>
             </div>
             <p className="home__text">Based in Sri Lanka, we offer top-quality bicycles for your
                  every adventure. Let’s talk about our unique collection!

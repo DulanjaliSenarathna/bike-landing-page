@@ -17,7 +17,7 @@ const Items = ({productItems}) => {
             transition={{duration:0.3}}
             className="product__items card card-two" key={id}>
                 <div className="product__img-wrapper">
-                    <img src={img} alt="" className="product__img" />
+                    <img src={img} alt="bicycle product image" className="product__img" loading='lazy'/>
                 </div>
                 <span className="product__category text-cs">{category}</span>
                 <h3 className="product__title">{title}</h3>
@@ -27,7 +27,7 @@ const Items = ({productItems}) => {
                     <FaArrowRight className='link__icon'></FaArrowRight>
 
                 </a>
-                <img src={shapeTwo} alt="" className="shape c__shape" />
+                <img src={shapeTwo} alt="styled shape image" className="shape c__shape" loading='lazy'/>
             </motion.div>
         )
     })}

@@ -1,9 +1,9 @@
-import Bike1 from './assets/1.png';
-import Bike2 from './assets/2.png';
-import Bike3 from './assets/3.png';
-import Bike4 from './assets/4.png';
-import Bike5 from './assets/5.png';
-import Bike6 from './assets/6.png';
+import Bike1 from './assets/offroad_bicycle.png';
+import Bike2 from './assets/mountain_bike.png';
+import Bike3 from './assets/hybrid_bike.png';
+import Bike4 from './assets/electric_bike.png';
+import Bike5 from './assets/child_bike.png';
+import Bike6 from './assets/hybrid_children_bicycle.png';
 
 import Testimonial1 from './assets/testimonial1.jpg';
 import Testimonial2 from './assets/testimonial2.jpg';

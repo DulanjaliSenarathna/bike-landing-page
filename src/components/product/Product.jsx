@@ -3,7 +3,6 @@ import List from './List'
 import {products} from '../../Data'
 import './product.css'
 import { AnimatePresence } from 'framer-motion'
-import shapeOne from '../../assets/shape-1.png'
 import Itmes from './Itmes'
 
 const allNavList = ['all', ...new Set(products.map((product)=> product.category ))]

@@ -41,7 +41,7 @@ const Pricing = () => {
                     <FaArrowRight className='pricing__btn-icon'></FaArrowRight>
                 </a>
 
-                <img src={shapeTwo} alt="" className="shape c__shape" />
+                <img src={shapeTwo} alt='styled shape image' className="shape c__shape" loading='lazy'/>
             </div>
 
             <div className="pricing__item-wrapper">
@@ -74,7 +74,7 @@ const Pricing = () => {
                     <FaArrowRight className='pricing__btn-icon'></FaArrowRight>
                 </a>
 
-                <img src={shapeTwo} alt="" className="shape c__shape" />
+                <img src={shapeTwo} alt='styled shape image' className="shape c__shape" loading='lazy' />
             </div>
             </div>
 
@@ -107,7 +107,7 @@ const Pricing = () => {
                     <FaArrowRight className='pricing__btn-icon'></FaArrowRight>
                 </a>
 
-                <img src={shapeTwo} alt="" className="shape c__shape" />
+                <img src={shapeTwo} alt='styled shape image' className="shape c__shape" loading='lazy'/>
             </div>
 
            

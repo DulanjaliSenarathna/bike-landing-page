@@ -94,7 +94,7 @@ const Header = () => {
                 </div>
 
                 <div className="section__deco deco__left header__deco">
-            <img src={shapeOne} alt="" className="shape" />
+            <img src={shapeOne} alt="styled shape image" className="shape" loading='lazy' />
         </div>
             </div>
 

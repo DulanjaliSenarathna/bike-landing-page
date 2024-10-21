@@ -46,16 +46,16 @@ const Testimonials = () => {
                         
                        <div className="testimonials__header">
                         <div className="testimonial__icon">
-                            <img src={testimonialIcon} alt="" />
+                            <img src={testimonialIcon} alt="Testimonial image" loading='lazy'/>
                         </div>
 
-                        <img src={img} alt="" className="testimonial__img" />
+                        <img src={img} alt="Testimonial image" className="testimonial__img" loading='lazy' />
                        </div>
 
                        <p className="testimonial__description">{description}</p>
                        <h3 className="testimonial__name">{name}</h3>
                        <p className="testimonial__author">{author}</p>
-                       <img src={shapeTwo} alt="" className="shape c__shape" />
+                       <img src={shapeTwo} alt="Shape image" className="shape c__shape" loading='lazy'/>
                     </SwiperSlide>
                 )
             })}
